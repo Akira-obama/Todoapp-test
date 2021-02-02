@@ -19,6 +19,9 @@ const App = () => {
         }, {
             content: '寝る'
 
+        }, {
+            content: '返る'
+
         },
     ])
 
